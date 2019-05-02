@@ -1,0 +1,48 @@
+
+ h1 {
+    text-align:center;
+    font-size: 60px;
+    font-family: fantasy ,serif,Times;
+    text-indent: em;
+	background-image:url(http://img5.imgtn.bdimg.com/it/u=3300305952,1328708913&fm=26&gp=0.jpg);
+	background-repeat:no-repeat;
+	background-position:left top;
+	
+}
+h2 {
+    font-size: 40px;
+    font-family: fantasy;
+    font-style:oblique;
+    font-weight:bold;
+    text-decoration: underline;
+    text-shadow: 2px 5px 3px #FF0000;
+    background: linear-gradient(to bottom, rgba(0,0,0,0.25), rgba(0,0,0,0.1));
+    padding:10px 10px 10px 10px;
+    text-align: center;
+	border-color:blue;
+	border-style:dotted;
+	border-width:thick;
+}
+p {
+    color: orange;
+    font-size:18px;
+    word-spacing: 15px;
+    font-family:Impact,Haettenschweiler,Franklin Gothic Bold,Charcoal,Helvetica Inserat,Bitstream Vera Sans Bold,Arial Black,sans serif; 
+    text-align:left;
+    line-height:150%;
+	white-space:normal;
+	text-transform:full-width;
+}
+a.one:link {color:#ff0000;}
+a.one:visited {color:#0000ff;}
+a.one:hover {color:#ffcc00;}
+
+a.two:link {color:#ff0000;}
+a.two:visited {color:#0000ff;}
+a.two:hover {font-size:150%;}
+
+/*link {color:red;}*/      /* 未被访问的链接 */
+/*visited {color:red;}    /* 已被访问的链接 */
+/*hover {color:yellow;}   /* 鼠标指针移动到链接上 */
+/*active {color:black;}  /* 正在被点击的链接 */
+
