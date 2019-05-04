@@ -1,0 +1,15 @@
+h3,p{
+	display: inline-block;
+	font-size: 20px;
+	font-family: Franklin;
+	
+}
+p{
+	margin-left:5px;
+	margin-right:20px;
+}
+a:link {color:#ff0000;}
+a:visited {color:#6600ff;}
+a:hover {font-size:150%;}
+a:active{font-family:fantasy}
+a{text-decoration:none}
