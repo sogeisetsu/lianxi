@@ -1,0 +1,9 @@
+浏览器默认的样式就是这样的，默认情况下<body>的宽度就比<html>小的，原因是<body>和<html>的内外边框所导致。因此我们在与CSS样式表的时候都要进行“reset”：
+
+* {
+  outline: 0;
+  padding: 0;
+  margin: 0;
+  border: 0;
+}
+消除了默认的内外边框之后，<body>的宽度就与<html>相同了。
